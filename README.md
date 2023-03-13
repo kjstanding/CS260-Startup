@@ -13,3 +13,6 @@ This is a change from both
 
 - Simon HTML:  
     I really enjoyed learning about how SVG's work. I played around with the coordinates to get a feel of how it all worked. I also did not know that you could include a tab icon in the head of an html document
+    
+- Simon JavaScript:  
+    I am most interested in storing data in the browser cache. I have been pondering how this was supposed to be done for our startup but its cool to learn how to store data in this way.
