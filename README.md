@@ -16,3 +16,6 @@ This is a change from both
     
 - Simon JavaScript:  
     I am most interested in storing data in the browser cache. I have been pondering how this was supposed to be done for our startup but its cool to learn how to store data in this way.
+    
+- Simon Service:
+    It was really interesting to learn about Node and Express and how it can implement web services for an application. I recently coded a server in java that provides endpoints for an android application. It seems that JavaScript really is a much easier way to handle setting up APIs. The Service implementation of Simon seemed pretty straightforward and easy to understand
