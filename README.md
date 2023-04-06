@@ -7,15 +7,18 @@ This is a change from both
 
 
 
-# Notes About What I Have Learned
+##Notes About What I Have Learned
 - GitHub Assignment:  
     I am not totally new to GitHub but I have always struggled to totally understand it and how to use it. This time around I am dedicated to figuring it out. I learned a lot from this assignment by just diving in with some unimportant directories and using git and Github with them. I aim to learn a lot more
 
-- Simon HTML:  
+###Simon HTML:  
     I really enjoyed learning about how SVG's work. I played around with the coordinates to get a feel of how it all worked. I also did not know that you could include a tab icon in the head of an html document
     
-- Simon JavaScript:  
+###Simon JavaScript:  
     I am most interested in storing data in the browser cache. I have been pondering how this was supposed to be done for our startup but its cool to learn how to store data in this way.
     
-- Simon Service:
+###Simon Service:  
     It was really interesting to learn about Node and Express and how it can implement web services for an application. I recently coded a server in java that provides endpoints for an android application. It seems that JavaScript really is a much easier way to handle setting up APIs. The Service implementation of Simon seemed pretty straightforward and easy to understand
+    
+###Simon DB:  
+    I have a little experience with SQL databases from other classes. I really enjoy how easy it is to add to a mongoDB and have a JSON object be the same through almost the entire technology stack. It also is just so much easier to even access the DB vs a SQL DB.
