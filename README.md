@@ -25,3 +25,6 @@ I have a little experience with SQL databases from other classes. I really enjoy
     
 ### Simon Login:  
 Again, I have learned a lot about authorization services from this lecture comparing to my experience in CS240 building a java server for an Android application. Interesting to learn that my browser is storing an authtoken for me when I login and thats why I am able to stay logged in accross different tabs and such.
+    
+### Simon Websocket:  
+I really enjoyed learning about websocket. I didn't realize that peer to peer communication would be an issue so it was interesting to think through and realize our previous implementation would present issues in trying to create a chat service. Fun to learn about ping/pong and automatically keeping connections alive as well as sending the messages over the connection to other clients.
