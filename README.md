@@ -22,3 +22,6 @@ It was really interesting to learn about Node and Express and how it can impleme
     
 ### Simon DB:  
 I have a little experience with SQL databases from other classes. I really enjoy how easy it is to add to a mongoDB and have a JSON object be the same through almost the entire technology stack. It also is just so much easier to even access the DB vs a SQL DB.
+    
+### Simon Login:  
+Again, I have learned a lot about authorization services from this lecture comparing to my experience in CS240 building a java server for an Android application. Interesting to learn that my browser is storing an authtoken for me when I login and thats why I am able to stay logged in accross different tabs and such.
