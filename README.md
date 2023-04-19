@@ -28,3 +28,6 @@ Again, I have learned a lot about authorization services from this lecture compa
     
 ### Simon Websocket:  
 I really enjoyed learning about websocket. I didn't realize that peer to peer communication would be an issue so it was interesting to think through and realize our previous implementation would present issues in trying to create a chat service. Fun to learn about ping/pong and automatically keeping connections alive as well as sending the messages over the connection to other clients.
+    
+### Simon React:
+React has been pretty confusing to me but it is cool to see how everything has been reworked into one dynamic framework
